@@ -9,5 +9,3 @@
 Functional Clone of Airbnb featuring a fully integrated front-end and back-end, designed to showcase modern web development practices.
 
 It is made using Html, Css, Js, NodeJs, ExpressJs, EJs and MongoDB.
-
-## Visit Wanderlust here - https://wanderlust-oizu.onrender.com/listings
