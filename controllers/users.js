@@ -5,6 +5,7 @@ module.exports.renderSignupForm =(req,res)=>
 };
 
 
+
 module.exports.singup =async(req,res)=>
 {
     try{
